@@ -1,6 +1,7 @@
 public class Calculator {
 
-    private String = "testname";
+    private String name = "testname";
+    private int count = 1;
 
     public int add(int a, int b) {
         return a + b;
